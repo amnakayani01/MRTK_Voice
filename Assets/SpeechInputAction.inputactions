@@ -1,0 +1,34 @@
+{
+    "name": "SpeechInputAction",
+    "maps": [
+        {
+            "name": "SpeechCommands",
+            "id": "dad21176-40af-4621-b917-81c050a623eb",
+            "actions": [
+                {
+                    "name": "ChangeColorCommand",
+                    "type": "Button",
+                    "id": "85c782f0-8f72-4f88-b6cf-de6d16b6cf0c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1f080461-ae79-4126-b153-10d702738b52",
+                    "path": "<Speech>/change color",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeColorCommand",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

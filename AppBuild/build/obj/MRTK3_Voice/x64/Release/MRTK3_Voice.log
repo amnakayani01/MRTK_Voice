@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+     Creating library C:\Users\Studies\MRTK3_Voice\AppBuild\build\bin\x64\Release\MRTK3_Voice.lib and object C:\Users\Studies\MRTK3_Voice\AppBuild\build\bin\x64\Release\MRTK3_Voice.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 157 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MRTK3_Voice.vcxproj -> C:\Users\Studies\MRTK3_Voice\AppBuild\build\bin\x64\Release\MRTK3_Voice.exe

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MRTK3_Voice.unity
+    guid: 8745fe3734771fd4488640aab66f0059
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: a363a1c819c0f534ba53fc17d93164ce, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 8967b0598ea98b343a6928c3c2c3abf9, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 57a233051ff252f47a25682669660b3a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf5b03aa9826e764aba8b76e6fa5b59d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d3165bb0d50dc5847a9d171f25a97407, type: 2}
